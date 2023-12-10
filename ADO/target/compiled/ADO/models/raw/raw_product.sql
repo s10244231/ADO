@@ -1,5 +1,0 @@
-
-
-Select *
-From 
-RAW.PRICESMART.PRODUCT
