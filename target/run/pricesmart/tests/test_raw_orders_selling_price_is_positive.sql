@@ -5,7 +5,7 @@ select
     from (
       with
 orders as (
-    select * from raw.pricesmart.raw_orders
+    select * from RAW.dbt_s10244231.raw_orders
 )
 
 select
